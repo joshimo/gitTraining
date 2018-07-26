@@ -3,4 +3,5 @@ public class classA {
     // First commit
     // Second commit
     // Third commit
+    // Fourth commit
 }
