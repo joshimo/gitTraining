@@ -8,4 +8,5 @@ public class classA {
     // Fifth commit
     // Merging master and BranchClassC
     // Sixth commit
+    // Seventh commit
 }
