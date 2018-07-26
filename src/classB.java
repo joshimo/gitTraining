@@ -1,3 +1,4 @@
 public class classB {
-    //Branch clasB
+    //Branch classB first commit
+    //Branch classB second commit
 }
